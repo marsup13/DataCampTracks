@@ -2,4 +2,6 @@
 ####if my folder has a # in his name : \#folder_name
 #####!Videos/temp/* => this is an exception or we can also create another gitignore file for exceptions
 *.mp4
+*.mp3
+*.m4v
 ToBeIgnored/*
